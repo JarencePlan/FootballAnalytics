@@ -3,7 +3,7 @@
 
 *Code - Contains code written in either R or Python for data visualisations
 
-*Graphic Archive - Contains previously made visualisations. (for explainations/analysis on the visuals see twitter page for the posts)
+*Graphic Archive - Contains previously made visualisations, all date stamped. (for explainations/analysis on the visuals see twitter page for the posts)
 
 *Check out the twitter page here: https://twitter.com/ChelseaDatabase
 
