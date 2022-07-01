@@ -9,6 +9,6 @@
 
 *Links to twitter threads unrolled for easy reading (if links dont work, scroll through my twitter page to locate my work)...
 
-Sterling Analysis:
+Sterling Analysis: https://threadreaderapp.com/thread/1541757024710565896.html
 
-Reviewing Centre Backs:
+Reviewing Centre Backs: https://threadreaderapp.com/thread/1541376369988440064.html
