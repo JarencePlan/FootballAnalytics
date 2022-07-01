@@ -3,7 +3,7 @@
 
 *Code - Contains code written in either R or Python for data visualisations
 
-*Graphic Archive - Contains previously made graphics.
+*Graphic Archive - Contains previously made visualisations.
 
 *Check out the twitter page here:
 
