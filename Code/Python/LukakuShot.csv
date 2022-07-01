@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,year,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+427759,14,Goal,0.964000015,0.5,0.809398949,Romelu Lukaku,a,594,OpenPlay,2021,RightFoot,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,Reece James,Pass
+427760,20,MissedShots,0.899000015,0.525,0.025048809,Romelu Lukaku,a,594,FromCorner,2021,Head,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,NA,Aerial
+427762,26,BlockedShot,0.839000015,0.482000008,0.097709626,Romelu Lukaku,a,594,OpenPlay,2021,RightFoot,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,Mason Mount,Pass
+427764,29,BlockedShot,0.781999969,0.635,0.033464529,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,Marcos Alonso,Pass
+427768,49,BlockedShot,0.853000031,0.544000015,0.103215024,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,Mateo Kovacic,Pass
+427771,54,BlockedShot,0.878000031,0.525,0.10846518,Romelu Lukaku,a,594,OpenPlay,2021,RightFoot,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,NA,None
+427779,76,SavedShot,0.916999969,0.497000008,0.472195506,Romelu Lukaku,a,594,OpenPlay,2021,Head,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,Mason Mount,Aerial
+427783,89,MissedShots,0.913000031,0.472000008,0.076405764,Romelu Lukaku,a,594,OpenPlay,2021,Head,16394,Arsenal,Chelsea,0,2,22/08/2021 15:30,Marcos Alonso,Chipped
+428810,34,SavedShot,0.875,0.482999992,0.149216577,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16402,Liverpool,Chelsea,1,1,28/08/2021 16:30,Mason Mount,Pass
+428825,63,BlockedShot,0.920999985,0.520999985,0.121657871,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16402,Liverpool,Chelsea,1,1,28/08/2021 16:30,Marcos Alonso,HeadPass
+430055,14,Goal,0.915,0.532000008,0.429283798,Romelu Lukaku,h,594,OpenPlay,2021,RightFoot,16413,Chelsea,Aston Villa,3,0,11/09/2021 16:30,Mateo Kovacic,TakeOn
+430080,92,Goal,0.843000031,0.562999992,0.101738386,Romelu Lukaku,h,594,OpenPlay,2021,LeftFoot,16413,Chelsea,Aston Villa,3,0,11/09/2021 16:30,César Azpilicueta,Pass
+431991,85,SavedShot,0.913000031,0.495,0.117918074,Romelu Lukaku,a,594,OpenPlay,2021,Head,16425,Tottenham,Chelsea,0,3,19/09/2021 15:30,Antonio Rüdiger,Cross
+431992,86,BlockedShot,0.869000015,0.557999992,0.092556164,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16425,Tottenham,Chelsea,0,3,19/09/2021 15:30,Jorginho,Pass
+431995,93,BlockedShot,0.880999985,0.357999992,0.100564025,Romelu Lukaku,a,594,OpenPlay,2021,RightFoot,16425,Tottenham,Chelsea,0,3,19/09/2021 15:30,Marcos Alonso,Chipped
+434898,85,MissedShots,0.87,0.690999985,0.062199425,Romelu Lukaku,h,594,OpenPlay,2021,LeftFoot,16438,Chelsea,Southampton,3,1,02/10/2021 14:00,NA,BallRecovery
+434899,88,ShotOnPost,0.964000015,0.514000015,0.735960662,Romelu Lukaku,h,594,OpenPlay,2021,LeftFoot,16438,Chelsea,Southampton,3,1,02/10/2021 14:00,Mason Mount,Pass
+436419,16,MissedShots,0.759000015,0.705999985,0.04578805,Romelu Lukaku,a,594,DirectFreekick,2021,LeftFoot,16448,Brentford,Chelsea,0,1,16/10/2021 16:30,NA,Standard
+445947,79,MissedShots,0.919000015,0.465999985,0.054543015,Romelu Lukaku,a,594,OpenPlay,2021,Head,16524,West Ham,Chelsea,3,2,04/12/2021 12:30,Antonio Rüdiger,Aerial
+450654,55,Goal,0.919000015,0.535999985,0.122871503,Romelu Lukaku,a,594,OpenPlay,2021,Head,16556,Aston Villa,Chelsea,1,3,26/12/2021 17:30,Callum Hudson-Odoi,Cross
+450844,27,Goal,0.95,0.440999985,0.119303271,Romelu Lukaku,h,594,FromCorner,2021,Head,16568,Chelsea,Brighton,1,1,29/12/2021 19:30,Mason Mount,Cross
+450862,85,MissedShots,0.871999969,0.389000015,0.115153663,Romelu Lukaku,h,594,OpenPlay,2021,LeftFoot,16568,Chelsea,Brighton,1,1,29/12/2021 19:30,NA,TakeOn
+453048,46,SavedShot,0.791999969,0.412000008,0.446325928,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16590,Manchester City,Chelsea,1,0,15/01/2022 12:30,Mateo Kovacic,Throughball
+454001,72,SavedShot,0.948000031,0.665,0.05822473,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16607,Brighton,Chelsea,1,1,18/01/2022 09:45,Antonio Rüdiger,Chipped
+454002,77,BlockedShot,0.879000015,0.56,0.034675654,Romelu Lukaku,a,594,OpenPlay,2021,Head,16607,Brighton,Chelsea,1,1,18/01/2022 09:45,Callum Hudson-Odoi,Cross
+455292,0,MissedShots,0.905999985,0.444000015,0.102849714,Romelu Lukaku,h,594,OpenPlay,2021,RightFoot,16598,Chelsea,Tottenham,2,0,23/01/2022 16:30,Mason Mount,Cross
+455299,43,BlockedShot,0.883000031,0.663000031,0.090276577,Romelu Lukaku,h,594,OpenPlay,2021,LeftFoot,16598,Chelsea,Tottenham,2,0,23/01/2022 16:30,Mateo Kovacic,Pass
+455308,68,SavedShot,0.875999985,0.660999985,0.083511285,Romelu Lukaku,h,594,OpenPlay,2021,LeftFoot,16598,Chelsea,Tottenham,2,0,23/01/2022 16:30,Mateo Kovacic,Pass
+462222,85,BlockedShot,0.913000031,0.437000008,0.140622124,Romelu Lukaku,a,594,OpenPlay,2021,RightFoot,16672,Norwich,Chelsea,1,3,10/03/2022 19:30,Ruben Loftus-Cheek,Pass
+469395,9,MissedShots,0.915,0.308999996,0.062244132,Romelu Lukaku,h,594,OpenPlay,2021,RightFoot,16618,Chelsea,Arsenal,2,4,20/04/2022 18:45,Ruben Loftus-Cheek,BallRecovery
+470562,83,BlockedShot,0.878000031,0.425,0.029338535,Romelu Lukaku,h,594,OpenPlay,2021,Head,16711,Chelsea,West Ham,1,0,24/04/2022 13:00,César Azpilicueta,Cross
+474767,13,BlockedShot,0.895999985,0.362999992,0.092237785,Romelu Lukaku,h,594,OpenPlay,2021,RightFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,07/05/2022 14:00,Christian Pulisic,Pass
+474778,45,SavedShot,0.849000015,0.510999985,0.09484034,Romelu Lukaku,h,594,OpenPlay,2021,RightFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,07/05/2022 14:00,Mateo Kovacic,Pass
+474785,55,Goal,0.885,0.5,0.761168838,Romelu Lukaku,h,594,Penalty,2021,LeftFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,07/05/2022 14:00,NA,Standard
+474787,57,Goal,0.795,0.492999992,0.057828184,Romelu Lukaku,h,594,OpenPlay,2021,RightFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,07/05/2022 14:00,Christian Pulisic,Pass
+475148,10,BlockedShot,0.838000031,0.590999985,0.072404295,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16703,Leeds,Chelsea,0,3,11/05/2022 18:30,NA,None
+475153,33,MissedShots,0.909000015,0.467000008,0.127677679,Romelu Lukaku,a,594,OpenPlay,2021,Head,16703,Leeds,Chelsea,0,3,11/05/2022 18:30,Reece James,Cross
+475155,48,MissedShots,0.925999985,0.482000008,0.143086568,Romelu Lukaku,a,594,OpenPlay,2021,Head,16703,Leeds,Chelsea,0,3,11/05/2022 18:30,Mason Mount,Cross
+475159,64,MissedShots,0.805999985,0.435999985,0.084185965,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16703,Leeds,Chelsea,0,3,11/05/2022 18:30,Reece James,Chipped
+475162,79,BlockedShot,0.899000015,0.545999985,0.141969502,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16703,Leeds,Chelsea,0,3,11/05/2022 18:30,Marcos Alonso,Pass
+475163,82,Goal,0.929000015,0.467999992,0.143055394,Romelu Lukaku,a,594,OpenPlay,2021,LeftFoot,16703,Leeds,Chelsea,0,3,11/05/2022 18:30,Hakim Ziyech,Pass
+476985,15,BlockedShot,0.890999985,0.347000008,0.059593093,Romelu Lukaku,h,594,OpenPlay,2021,RightFoot,16639,Chelsea,Leicester,1,1,19/05/2022 19:00,N&#039;Golo Kanté,Pass
+476994,61,MissedShots,0.900999985,0.475999985,0.09965907,Romelu Lukaku,h,594,OpenPlay,2021,Head,16639,Chelsea,Leicester,1,1,19/05/2022 19:00,Hakim Ziyech,Cross
