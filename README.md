@@ -1,7 +1,7 @@
 # FootballAnalytics
 
 
-*Code - Contains code written in either R or Python for data visualisations
+*Code - Contains code written in either R or Python for data visualisations. Note, need to upload in heatmap, ball progression map, passing network map
 
 *Graphic Archive - Contains previously made visualisations, all date stamped. (for explainations/analysis on the visuals see twitter page for the posts)
 
