@@ -7,5 +7,7 @@
 Click Link Tree to access all platforms: https://linktr.ee/chelseadatabase
 
 Twitter: Main page, interact with followers and post my analytics.
+
 Instagram: Data Visualisation archive, easily see all my posts.
+
 Medium: All my in depth Statistical & Data Analysis articles written.
